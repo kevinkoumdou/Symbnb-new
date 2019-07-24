@@ -1,0 +1,17 @@
+div.other h1, div.other p{
+    color: white;
+    text-shadow: 3px 3px 3px rgba(0,0,0,0.5);
+}
+
+div.other{
+    padding: 2em;
+    background-size: cover;
+    background-position: center center;
+}
+div.container{
+    padding-top: 20px;
+}
+div.carousel-caption{
+    text-shadow: 3px 3px 3px rgba(0,0,0,0.5);
+}
+
